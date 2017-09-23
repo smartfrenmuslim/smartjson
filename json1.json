@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "isImportant": false,
+    "picture": "https://api.androidhive.info/json/google.png",
+    "from": "Google Alerts",
+    "subject": "Google Alert - android",
+    "message": "Android N update is released to Nexus Family!",
+    "timestamp": "10:30 AM",
+    "isRead": false
+  }, 
+  {
+    "id": 2,
+    "isImportant": false,
+    "picture": "https://api.androidhive.info/json/google.png",
+    "from": "Google Alerts",
+    "subject": "Google Alert - android",
+    "message": "Android N update is released to Nexus Family!",
+    "timestamp": "10:30 AM",
+    "isRead": false
+  }, 
+  {
+    "id": 3,
+    "isImportant": false,
+    "picture": "https://api.androidhive.info/json/google.png",
+    "from": "Google Alerts",
+    "subject": "Google Alert - android",
+    "message": "Android N update is released to Nexus Family!",
+    "timestamp": "10:30 AM",
+    "isRead": false
+  }, 
+  {
+    "id": 4,
+    "isImportant": false,
+    "picture": "https://api.androidhive.info/json/google.png",
+    "from": "Google Alerts",
+    "subject": "Google Alert - android",
+    "message": "Android N update is released to Nexus Family!",
+    "timestamp": "10:30 AM",
+    "isRead": false
+  }
+]
